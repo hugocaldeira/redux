@@ -41,3 +41,4 @@ env-name.ts
 #System Files
 .DS_Store
 Thumbs.db
+.eslintcache
